@@ -1,0 +1,8 @@
+.DS_Store
+*.idea
+*.ijm
+*.Rdata
+*.Rhistory
+.Rproj.user
+.Rbuildignore
+~/.boxr-oauth

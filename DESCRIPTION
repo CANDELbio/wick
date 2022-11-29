@@ -1,0 +1,15 @@
+Package: wick
+Type: Package
+Title: Tools for querying the CANDEL data store
+Version: 1.3.0
+Author: Pier Federico Gherardini and Lacey Kitch
+Maintainer: Pier Federico Gherardini <pfgherardini@parkerici.org> and Lacey Kitch <lkitch@parkerici.org>
+Description: Query tools and pre-canned queries for getting data from CANDEL.
+License: Apache 2.0
+Imports: reshape2, plyr, httr, readr
+Remotes: ParkerICI/datalogr
+Depends: datalogr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Suggests: testthat
